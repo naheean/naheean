@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Naheean 👋
 
 I study **Digital Business & Innovation** at Tokyo International University, and I live in Tokyo.
